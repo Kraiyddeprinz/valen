@@ -13,7 +13,6 @@ function applyTheme() {
     // Apply animation settings
     root.style.setProperty('--float-duration', config.animations.floatDuration);
     root.style.setProperty('--float-distance', config.animations.floatDistance);
-    root.style.setProperty('--bounce-speed', config.animations.bounceSpeed);
     root.style.setProperty('--heart-explosion-size', config.animations.heartExplosionSize);
 }
 
